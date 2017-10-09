@@ -1,0 +1,10 @@
+com\aeon\ws\integration\GetGeoIPContext.class
+com\aeon\ws\Application.class
+com\aeon\ws\integration\GetGeoIPResponse.class
+com\aeon\ws\integration\GeoIP.class
+com\aeon\ws\config\AppConfig.class
+com\aeon\ws\integration\GetGeoIPContextResponse.class
+com\aeon\ws\integration\GetGeoIP.class
+com\aeon\ws\client\IpClient.class
+com\aeon\ws\integration\package-info.class
+com\aeon\ws\integration\ObjectFactory.class
