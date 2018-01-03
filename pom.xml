@@ -21,6 +21,7 @@
         <module>rx-java</module>
         <module>spring-scratch</module>
         <module>spring-ws</module>
+        <module>spring-aop</module>
     </modules>
 
     <dependencyManagement>
